@@ -1,82 +1,58 @@
-# Hi there 👋 I'm Ly MinhChou
+<h1 align="center">Hi 👋 I'm Ly MinhChou</h1>
+<h3 align="center">Full Stack Developer | Flutter Developer | Django Backend Developer</h3>
 
-### 💻 Full Stack & Mobile App Developer
-
-🎓 Fintech Student passionate about creating mobile apps, web systems, and modern software solutions.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Flutter+%7C+Django+%7C+Python;Web+%26+Mobile+Developer;Always+Learning+New+Technology" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
+🎓 Fintech Student passionate about software engineering and building real-world applications.
+
 * 📱 Flutter Mobile App Developer
 * 🌐 Django / Python Backend Developer
 * 💻 Frontend Web Developer
-* 🧠 Interested in AI & New Technology
-* 🎯 Goal: Become a Professional Software Engineer
+* 🧠 Interested in AI & Smart Systems
+* 🎯 Goal: Become Professional Software Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Flutter / Dart
-* Python / Django
-* HTML / CSS / JavaScript
-* MySQL / SQLite
-* Git / GitHub
-* VS Code
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,django,html,css,js,mysql,sqlite,git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 💖 KissMe App
-
-E-commerce / Ordering mobile app built with Flutter.
-
-### 📅 Booking App
-
-Reservation and management system.
-
-### 💳 Bakong Service
-
-Digital payment integration project.
-
-### 🏢 CRM Backend API
-
-Business backend system using Django.
+| Project            | Description                        |
+| ------------------ | ---------------------------------- |
+| 💖 KissMe App      | E-commerce mobile app with Flutter |
+| 🌾 ManageFarm      | Farm management system             |
+| 📅 Booking App     | Booking / reservation system       |
+| 💳 Bakong Service  | Payment integration project        |
+| 🏢 CRM Backend API | Business backend system            |
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-* Building real-world projects
-* Improving backend architecture
-* Learning advanced Flutter UI
-* Growing as Full Stack Developer
-
----
-
-## 📫 Connect With Me
-
-* GitHub: @chouuu23
-* Email: [lychou296@gmail.com](mailto:lychou296@gmail.com)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chouuu23&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chouuu23&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌍 Connect With Me
 
+* 📧 Email: [lychou296@gmail.com](mailto:lychou296@gmail.com)
+* 💻 GitHub: github.com/chouuu23
 
-<!--
-**chouuu23/chouuu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">⭐ Thanks for visiting my profile ⭐</p>
