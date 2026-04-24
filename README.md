@@ -18,26 +18,47 @@
 * 🎯 Goal: Become Professional Software Engineer
 
 ---
+## 🚀 My Tech Stack
 
-## 🛠️ Tech Stack
+### 📱 Mobile Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,django,html,css,js,mysql,sqlite,git,github,vscode" />
-</p>
+| Technology | Proficiency    | Focus                      |
+| ---------- | -------------- | -------------------------- |
+| Flutter    | █████████░ 90% | Cross-platform mobile apps |
+| Dart       | ████████░░ 85% | Flutter language           |
+| Kotlin     | ███████░░░ 75% | Android development        |
+
+---
+
+### 🌐 Frontend Development
+
+| Technology | Proficiency    | Experience           |
+| ---------- | -------------- | -------------------- |
+| HTML5      | █████████░ 90% | Semantic markup      |
+| CSS3       | ████████░░ 85% | Responsive UI        |
+| JavaScript | ████████░░ 82% | DOM / Interactive UI |
+
+---
+
+### ⚙️ Backend & Database
+
+| Technology | Proficiency    | Usage               |
+| ---------- | -------------- | ------------------- |
+| Python     | █████████░ 90% | Backend logic       |
+| Django     | ████████░░ 85% | REST API / Admin    |
+| MySQL      | ███████░░░ 75% | Relational database |
+| SQLite     | ███████░░░ 72% | Local DB            |
 
 ---
 
 ## 📂 Featured Projects
 
-| Project            | Description                        |
-| ------------------ | ---------------------------------- |
-| 💖 KissMe App      | E-commerce mobile app with Flutter |
-| 🌾 ManageFarm      | Farm management system             |
-| 📅 Booking App     | Booking / reservation system       |
-| 💳 Bakong Service  | Payment integration project        |
-| 🏢 CRM Backend API | Business backend system            |
-
----
+| Project           | Description                      | Tech           |
+| ----------------- | -------------------------------- | -------------- |
+| 💖 KissMe App     | Ordering / E-commerce mobile app | Flutter, Dart  |
+| 🌾 ManageFarm     | Farm management system           | Django, Python |
+| 📅 Booking App    | Reservation system               | Flutter        |
+| 💳 Bakong Service | Payment service                  | Backend API    |
 
 ## 📊 GitHub Stats
 
