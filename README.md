@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 IT Student passionate about software engineering and building modern real-world applications.
+🎓 Fintech Student passionate about software engineering and building modern real-world applications.
 
 * 📱 Flutter Mobile App Developer
 * ⚙️ Django / Python Backend Developer
