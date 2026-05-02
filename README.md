@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Ly MinhChou</h1>
-<h3 align="center">Full Stack Developer | Flutter Developer | Django Backend Developer</h3>
+<h3 align="center">🚀 Full Stack Developer | 📱 Flutter Developer | ⚙️ Django Backend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Flutter+%7C+Django+%7C+Python;Web+%26+Mobile+Developer;Always+Learning+New+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Flutter+%7C+Django+%7C+Python;Web+%26+Mobile+Developer;Always+Learning+New+Technology" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Fintech Student passionate about software engineering and building modern real-world applications.
+🎓 Fintech student passionate about building modern real-world applications.
 
 * 📱 Flutter Mobile App Developer
 * ⚙️ Django / Python Backend Developer
@@ -19,126 +19,113 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 🚀 Tech Stack
 
 ### 📱 Mobile Development
 
-| Technology | Proficiency    | Focus                      |
-| ---------- | -------------- | -------------------------- |
-| Flutter    | █████████░ 90% | Cross-platform mobile apps |
-| Dart       | ████████░░ 85% | Flutter language           |
-| Kotlin     | ███████░░░ 75% | Android development        |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+</p>
+
+Flutter ▰▰▰▰▰▰▰▰▰▱ 90%
+Dart ▰▰▰▰▰▰▰▰▱▱ 85%
+Kotlin ▰▰▰▰▰▰▰▱▱▱ 75%
 
 ---
 
 ### 🌐 Frontend Development
 
-| Technology | Proficiency    | Experience           |
-| ---------- | -------------- | -------------------- |
-| HTML5      | █████████░ 90% | Semantic markup      |
-| CSS3       | ████████░░ 85% | Responsive UI        |
-| JavaScript | ████████░░ 82% | DOM / Interactive UI |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+HTML ▰▰▰▰▰▰▰▰▰▱ 90%
+CSS ▰▰▰▰▰▰▰▰▱▱ 85%
+JavaScript ▰▰▰▰▰▰▰▰▱▱ 82%
 
 ---
 
 ### ⚙️ Backend & Database
 
-| Technology | Proficiency    | Usage               |
-| ---------- | -------------- | ------------------- |
-| Python     | █████████░ 90% | Backend logic       |
-| Django     | ████████░░ 85% | REST API / Admin    |
-| MySQL      | ███████░░░ 75% | Relational database |
-| SQLite     | ███████░░░ 72% | Local database      |
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
+
+Python ▰▰▰▰▰▰▰▰▰▱ 90%
+Django ▰▰▰▰▰▰▰▰▱▱ 85%
+MySQL ▰▰▰▰▰▰▰▱▱▱ 75%
+SQLite ▰▰▰▰▰▰▰▱▱▱ 72%
 
 ---
 
 ## 📂 Featured Projects
 
----
-
 ### 💖 KissMe App
 
-A modern **shopping and ordering mobile application** designed for smooth product browsing and fast checkout experience.
+Modern shopping and ordering mobile app.
 
-**Key Features:**
-
-* 🛒 Product listing and detail pages
-* ❤️ Favorite / wishlist system
-* 🔔 Notification page
-* 📦 Order history tracking
+* 🛒 Product browsing
+* ❤️ Wishlist system
+* 📦 Order tracking
 * 💳 Payment integration
-* 👤 User profile & settings
 
-**Tech Stack:**
-`Flutter` • `Dart` • `REST API`
+**Tech:** Flutter • Dart • REST API
 
 ---
 
 ### 🌾 ManageFarm
 
-A smart **farm management platform** to organize zones, branches, categories, trees, and agricultural data.
+Smart farm management platform.
 
-**Key Features:**
+* 🌱 Zone & tree management
+* 🏢 Branch system
+* 👤 Authentication
+* 📊 Admin dashboard
 
-* 🌱 Zone / tree category management
-* 🌳 Tree inventory system
-* 🏢 Branch and child branch management
-* 👤 User authentication system
-* 🛠️ Django Admin dashboard
-* 📊 Data organization & control
-
-**Tech Stack:**
-`Django` • `Python` • `SQLite` • `HTML` • `CSS`
+**Tech:** Django • Python • SQLite
 
 ---
 
 ### 📅 Booking App
 
-A convenient **reservation and booking system** for managing appointments and schedules.
+Reservation and scheduling system.
 
-**Key Features:**
+* 📆 Booking system
+* 👤 User accounts
+* 📋 History tracking
 
-* 📆 Booking date selection
-* 📝 Reservation management
-* 👤 User account system
-* 📋 Booking history
-* 🔔 Status updates
-
-**Tech Stack:**
-`Flutter` • `Dart`
+**Tech:** Flutter • Dart
 
 ---
 
 ### 💳 Bakong Service
 
-A digital **payment integration system** using Bakong services for fast and secure transactions.
+Digital payment integration system.
 
-**Key Features:**
+* 💸 QR payment
+* 🔐 Secure transactions
+* 📊 Payment records
 
-* 💸 QR payment support
-* 🔐 Secure payment requests
-* 📲 Digital wallet integration
-* 📈 Transaction records
-
-**Tech Stack:**
-`Python` • `API` • `Backend`
+**Tech:** Python • API
 
 ---
 
 ### 🏢 CRM Backend API
 
-A business **customer relationship management backend system** for handling users, data, and services.
-
-**Key Features:**
+Business backend system.
 
 * 👥 User management
-* 🔑 Authentication system
-* 📦 Product / service records
-* 🌐 REST API endpoints
-* 📊 Admin control panel
+* 🔑 Authentication
+* 🌐 REST API
 
-**Tech Stack:**
-`Django` • `Python` • `MySQL`
+**Tech:** Django • MySQL
 
 ---
 
@@ -151,7 +138,7 @@ A business **customer relationship management backend system** for handling user
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 * 📧 Email: [lychou296@gmail.com](mailto:lychou296@gmail.com)
 * 💻 GitHub: https://github.com/chouuu23
